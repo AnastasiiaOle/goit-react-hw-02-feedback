@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/FeedbackOptions/FeedbackOptions.module.css"],"names":[],"mappings":"AAAA,+BACI,kBAAmB,CACnB,oBAA6B,CAC7B,gBACJ","file":"main.d5f05c2c.chunk.css","sourcesContent":[".button {\n    text-align: justify;\n    border-color: rgb(39, 51, 51);\n    margin-right: 5px;\n}"]}
